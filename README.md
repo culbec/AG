@@ -4,7 +4,7 @@ This repository contains all my work on the _Graph Algorithms_ course.
 
 ## Contents
 
-1. Different [_crossing and distance calculation_]() algorithms using:
+1. Different [_crossing and distance calculation_](https://github.com/culbec/AG/tree/main/Crossings) algorithms using:
 
 - **Breadth First Search** for finding a **path** between **two nodes** in a _undirected graph_.
 - **Depth First Search** for finding a **path** or a **puzzle solving** solution between **two nodes** in a _undirected graph_.
@@ -14,7 +14,7 @@ This repository contains all my work on the _Graph Algorithms_ course.
 - **Moores's algorithm** for finding the **shortest path** between **two nodes** in a _undirected graph_.
 - **Kosaraju's algorithm** for finding the **number of connected components** in a _directed graph_.
 
-2. [_Coding, MST and maximum flux_]() solving algorithms using:
+2. [_Coding, MST and maximum flux_](https://github.com/culbec/AG/blob/main) solving algorithms using:
 
 - **Huffman's algorithm** for _encoding/decoding_ a _text_.
 - **Prufer's algorithm** for _encoding/decoding_ a _text_.
@@ -26,4 +26,4 @@ This repository contains all my work on the _Graph Algorithms_ course.
 
 ## Technologies used
 
-- C++: code
+- **C++**: _code_
